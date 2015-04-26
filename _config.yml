@@ -1,0 +1,6 @@
+ name:        Niels' web
+ highlighter: pygments
+ exclude:     [README.md]
+ timezone:    Europe/Copenhagen
+ markdown:    kramdown
+ permalink:   none
